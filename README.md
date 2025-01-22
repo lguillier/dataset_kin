@@ -25,7 +25,7 @@ To install these dependencies, run:
 ```R
 install.packages("nlsMicrobio")
 install.packages("gauseR")
-
+```
 ## Citation
 Virgile Guéneau, Laurent Guillier, Cécile Berdous, Marie-Françoise Noirot-Gros, Guillermo Jiménez, Julia Plateau-Gonthier, Pascale Serror, Mathieu Castex, Romain Briandet
 bioRxiv 2024.10.16.618781; doi: https://doi.org/10.1101/2024.10.16.618781
