@@ -5,7 +5,7 @@ This repository contains all data sets, R scripts, and additional resources asso
 
 ## Content
 - **Data/**
-  - This folder contains raw biovolume CLSM kinetics (available [Article DOI](https://doi.org/10.57745/XRXQEI) ).
+  - This folder contains raw biovolume CLSM kinetics.
   - The folder is subdivided in three sub-directories: "Monocultures", "Co-inoculation" and "Recruitement"
   
 - **Scripts/**
